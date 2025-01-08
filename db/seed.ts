@@ -10,3 +10,4 @@ console.log('Database Seeded Successfully!')
 }
 
 main();
+
